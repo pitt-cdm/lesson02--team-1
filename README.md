@@ -1,7 +1,7 @@
 # Practice forking an assignment repository and editing its files
 
 ## About forking
-When you accept an assignment through GitHub Classroom, you get your own copy of all the files in it: a *fork* of the original. (Picture a fork in the road – a splitting off – despite the eating utensil in GitHub's animated forking gif.) This lets you safely play with and edit the files, without worrying that you'll overwrite someone else's work.
+When you accept an assignment through GitHub Classroom, you get your own copy of all the files in it. This lets you safely play with and edit the files, without worrying that you'll overwrite someone else's work. For today, I've asked you to work in teams; for the major projects coming up, you'll each have an individual set of files.
 
 ## Your task: use the "five principles" as a lens
 For this particular assignment, I'm asking you to work in groups to apply the ideas from [Sorapure's "Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). What do the "five principles of new media" help you see?
