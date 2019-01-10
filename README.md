@@ -9,9 +9,12 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 1. **Create a new file**, named for one of the five principles in Sorapure: numerical-representation.md, modularity.md, automation.md, variability.md, or transcoding.md
    - Note that filenaming convention: all lowercase, no spaces. 
    - The .md file extension lets you use ["markdown" syntax](https://guides.github.com/features/mastering-markdown/), but you can ignore this for now if you want.
-2. In that file, **make a list** of examples of where you've seen that principle in action.
+2. In that file, you're going to **make a list** of examples of where you've seen that principle in action.
    - What does this principle help you notice in [Wesch's "Information R/evolution"](http://www.youtube.com/watch?v=-4CV05HyAbM) video, for example?
    - What other examples from your digital day-to-day come to mind as you think about this principle?
-3. Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
+3. **Take turns** adding to the file, saving as you go, so that **everyone in the group gets to make at least one commit.**
+   - Use meaningful commit messages.
+   - Think of the main commit message as the subject line of an email, and the optional extension as the email body.
+4. Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
 
 EXT: If you finish early and are waiting for other groups, open the file ["murray--four-affordances.md"](murray--four-affordances.md) and follow the instructions there.
