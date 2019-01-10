@@ -14,4 +14,4 @@ For this particular assignment, I'm asking you to work in groups to apply the id
    - What other examples from your digital day-to-day come to mind as you think about this principle?
 3. Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
 
-EXT: If you finish early and are waiting for other groups, open the file "murray--four-affordances.md" and follow the instructions there.
+EXT: If you finish early and are waiting for other groups, open the file ["murray--four-affordances.md"](murray--four-affordances.md) and follow the instructions there.
