@@ -10,4 +10,4 @@ Numerically representing something puts them in a category. Wesch's video explai
 
 "New" media follows the affordances of "Digital Media" while the only difference is that new media can be composed physically whereas digital media is limited to the computer
 
-A selfie is a digital day to day representation of numerical representation because of the use of pixels. 
+A selfie is a digital day to day representation of numerical representation because of the use of pixels
